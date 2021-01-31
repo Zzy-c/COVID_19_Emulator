@@ -1,0 +1,6 @@
+#pragma once
+
+#define SYSTEM_NAME "@CMAKE_SYSTEM_NAME@"
+
+#define PATH "@RW_DATA_PATH@"
+
